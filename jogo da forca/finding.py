@@ -24,7 +24,7 @@ valor_corte = 14+tamanho_pegar
 palavra_url= escolha[14:int(valor_corte)]
 
 #print(palavra_url)
-if __name__==__main__:
+if __name__=="__main__":
   print(palavra)
 
 #////////////////////////////////////////segunda request\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
